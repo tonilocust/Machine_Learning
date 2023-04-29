@@ -3,3 +3,5 @@ user = arzplujz
 password = nXVzs5UZnyrgmKe9fT4gY2_v0RNzOMFC
 host = dumbo.db.elephantsql.com
 database = arzplujz
+
+#sql alchimist
